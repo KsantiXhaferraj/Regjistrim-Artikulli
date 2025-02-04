@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="article_types">
+        <item>Ushqimore</item>
+        <item>Bulmet</item>
+        <item>Pije</item>
+        <item>Embelsire</item>
+    </string-array>
+</resources>

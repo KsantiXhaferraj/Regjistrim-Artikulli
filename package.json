@@ -1,0 +1,14 @@
+{
+  "name": "article-registration-app",
+  "version": "1.0.0",
+  "description": "Simple Article Registration App",
+  "scripts": {
+    "dev": "servor .",
+    "start": "echo 'To run this application, open index.html in your browser directly.'"
+  },
+  "author": "Bolt",
+  "license": "ISC",
+  "devDependencies": {
+    "servor": "^4.0.2"
+  }
+}
